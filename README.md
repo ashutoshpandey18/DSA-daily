@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0231-power-of-two) |
+| [0476-number-complement](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0476-number-complement) |
 ## Recursion
 |  |
 | ------- |
