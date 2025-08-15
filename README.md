@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0292-nim-game) |
+## Array
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0414-third-maximum-number) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
