@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0414-third-maximum-number](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0414-third-maximum-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ashutoshpandey18/DSA-daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Sorting
@@ -51,4 +52,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
