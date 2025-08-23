@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0476-number-complement) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0136-single-number](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0283-move-zeroes) |
