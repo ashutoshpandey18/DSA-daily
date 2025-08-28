@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0258-add-digits) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ashutoshpandey18/DSA-daily/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ashutoshpandey18/DSA-daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ashutoshpandey18/DSA-daily/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ashutoshpandey18/DSA-daily/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/ashutoshpandey18/DSA-daily/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
